@@ -633,6 +633,7 @@
 /vendor/phpunit/phpunit/phpunit
 /verify.php?id=1&confirm_hash=
 /version.web
+/version
 /views/ajax/autocomplete/user/a
 /virtualems/Login.aspx
 /VirtualEms/Login.aspx
